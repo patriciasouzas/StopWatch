@@ -1,5 +1,4 @@
 # StopWatch
-Projeto para praticar estudos de CSharp e .NET 6.0
 
 
 Nesse projeto foi criado um cronômetro interativo, onde é perguntado quanto tempo deseja cronometrar em segundos ou minutos.<br>
